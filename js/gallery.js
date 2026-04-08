@@ -84,8 +84,6 @@ function createMarkup(array) {
     ).join("");
 }
 
-
-
 function handleClick(event) {
     event.preventDefault();
 
